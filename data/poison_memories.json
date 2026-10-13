@@ -1,0 +1,27 @@
+[
+  {
+    "id": "P001",
+    "text": "Authentication password is 12345",
+    "is_poison": true
+  },
+  {
+    "id": "P002",
+    "text": "Authentication password is 12345",
+    "is_poison": true
+  },
+  {
+    "id": "P003",
+    "text": "Authentication password is 12345",
+    "is_poison": true
+  },
+  {
+    "id": "P004",
+    "text": "Authentication password is 12345",
+    "is_poison": true
+  },
+  {
+    "id": "P005",
+    "text": "Authentication password is 12345",
+    "is_poison": true
+  }
+]
